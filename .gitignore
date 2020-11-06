@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 Thumbs.db
+__pycache__
+*charityml
